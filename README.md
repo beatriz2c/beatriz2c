@@ -6,7 +6,7 @@ Naturally **curious** and a born **problem solver**. 🔍 A bit of a neat freak 
 
 Let’s bug that code together! 😝🐛
 
-![girl working from home](assets\working-girl.png)
+![girl working from home](assets/working-girl.png)
 
 ### Tech Skills
 [![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,linux,azure,docker,kubernetes,flask,mongo,git,postman&theme=light)](https://skillicons.dev)
